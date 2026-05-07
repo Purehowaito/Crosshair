@@ -1,5 +1,4 @@
-**Beta 0.1**
--
+# Beta 0.1
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/dd8d4eaa-a4f6-4b3f-88c9-12ab997169ab" />
 
 **A Windows desktop application developed based on C++, which draws a crosshair on the screen by creating a transparent top-level window to assist your visual aiming in games. The program does not involve process injection, memory modification, or system driver installation, so the crosshair may be covered when the game is running in exclusive full-screen mode. When using it, you must operate only under the permission of the game operator's user agreement and anti-cheat policy.**
@@ -10,6 +9,5 @@
 
 **C++ 기반으로 개발된 Windows 데스크톱 응용 프로그램으로, 투명한 최상위 창을 만들어 화면에 조준선을 그려 게임 내 시각적 조준을 돕습니다. 이 프로그램은 프로세스 인젝션, 메모리 수정, 시스템 드라이버 설치를 포함하지 않으므로, 게임이 독점 전체 화면 모드로 실행될 때 조준선이 가려질 수 있습니다. 사용 시에는 게임 운영사의 이용약관 및 안티치트 정책의 허용 하에 실행해야 합니다.**
 
-**更新日志**
--
+## 更新日志
 **2026-01-09 - 初始 Beta 0.1**
