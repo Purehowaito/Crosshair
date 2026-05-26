@@ -1,4 +1,3 @@
-# Beta 0.1
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/dd8d4eaa-a4f6-4b3f-88c9-12ab997169ab" />
 
 **A Windows desktop application developed based on C++, which draws a crosshair on the screen by creating a transparent top-level window to assist your visual aiming in games. The program does not involve process injection, memory modification, or system driver installation, so the crosshair may be covered when the game is running in exclusive full-screen mode. When using it, you must operate only under the permission of the game operator's user agreement and anti-cheat policy.**
